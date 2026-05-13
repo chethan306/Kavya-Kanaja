@@ -46,7 +46,7 @@ utils/ → Helper and utility classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/KavyaKanaja.git](https://github.com/malikarshid01430-byte/KavyaKanaja.git)
+git clone [https://github.com/chethan306-byte/Kavya-Kanaja.git](https://github.com/chethan306-byte/Kavya-Kanaja.git)
 
 ---
 
