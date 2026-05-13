@@ -46,7 +46,7 @@ Setup Instructions
 
 ### Clone the Repository
 
-git clone [https://github.com/chethan306-byte/Kavya-Kanaja.git](https://github.com/chethan306-byte/Kavya-Kanaja.git)
+git clone [https://github.com/chethan306-byte/Kavya-Kanaja.git](https://github.com/chethan306/Kavya-Kanaja.git)
 
 ---
 
