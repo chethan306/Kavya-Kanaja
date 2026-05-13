@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Lighting the Lamp of Kannada",
+    "poetName": "D.S. Karki",
+    "poemText": "We shall light the lamp of Kannada\nThe lamp of Karunadu, the lamp of rich speech\nThe winning lamp held with love\nWe shall light the lamp of Kannada",
+    "category": "Patriotic",
+    "type": "POEM",
+    "bhavartha": "This poem celebrates the Kannada language and culture, symbolizing it as a lamp that illuminates the land.",
+    "wordMeanings": {
+      "Light": "To ignite",
+      "Rich speech": "Eloquent language",
+      "Karunadu": "The land of Kannada"
+    }
+  },
+  {
+    "id": "s1",
+    "title": "A Short Story",
+    "poetName": "Masti Venkatesha Iyengar",
+    "poemText": "This is a text for a beautiful short story...",
+    "category": "Short Story",
+    "type": "STORY",
+    "bhavartha": "A translation of a classic story.",
+    "wordMeanings": {}
+  }
+]

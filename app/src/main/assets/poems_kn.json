@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "title": "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ",
+    "poetName": "ಡಿ.ಎಸ್. ಕರ್ಕಿ",
+    "poemText": "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ\nಕರುನಾಡ ದೀಪ, ಸಿರಿನುಡಿಯ ದೀಪ\nಒಲವೆತ್ತಿ ಹಿಡಿದ ಗೆಲುವಿನ ದೀಪ\nಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ",
+    "category": "Patriotic",
+    "type": "POEM",
+    "bhavartha": "This poem celebrates the Kannada language and culture, symbolizing it as a lamp that illuminates the land.",
+    "wordMeanings": {
+      "ಹಚ್ಚೇವು": "Let us light",
+      "ಸಿರಿನುಡಿ": "Rich language",
+      "ಕರುನಾಡು": "Land of Kannada"
+    }
+  },
+  {
+    "id": "v1",
+    "title": "ಕಳಬೇಡ ಕೊಲಬೇಡ",
+    "poetName": "ಬಸವಣ್ಣ",
+    "poemText": "ಕಳಬೇಡ ಕೊಲಬೇಡ ಹುಸಿಯ ನುಡಿಯಲು ಬೇಡ\nಮುನಿಯಬೇಡ ಅನ್ಯರಿಗೆ ಅಸಹ್ಯಪಡಬೇಡ\nತನ್ನ ಬಣ್ಣಿಸಬೇಡ ಹಿರಿಯ ಹೀಯಾಳಿಸಬೇಡ\nಇದೇ ಅಂತರಂಗ ಶುದ್ಧಿ ಇದೇ ಬಹಿರಂಗ ಶುದ್ಧಿ",
+    "category": "Vachana",
+    "type": "POEM",
+    "bhavartha": "Basavanna's teaching on moral conduct.",
+    "wordMeanings": {
+      "ಕಳಬೇಡ": "Do not steal",
+      "ಕೊಲಬೇಡ": "Do not kill",
+      "ಹುಸಿಯ": "Lie"
+    }
+  },
+  {
+    "id": "d1",
+    "title": "ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ",
+    "poetName": "ಪುರಂದರದಾಸರು",
+    "poemText": "ಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ ನಮ್ಮಮ್ಮ ಸೌಭಾಗ್ಯದ ಲಕ್ಷ್ಮಿ ಬಾರಮ್ಮ...",
+    "category": "Dasa Sahitya",
+    "type": "POEM",
+    "bhavartha": "A popular devotional song by Purandara Dasa.",
+    "wordMeanings": {}
+  },
+  {
+    "id": "s1",
+    "title": "ಒಂದು ಸಣ್ಣ ಕಥೆ",
+    "poetName": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+    "poemText": "ಇದು ಒಂದು ಸುಂದರವಾದ ಸಣ್ಣ ಕಥೆಯ ಪಠ್ಯವಾಗಿದೆ...",
+    "category": "Short Story",
+    "type": "STORY",
+    "bhavartha": "A short story by Masti Venkatesha Iyengar.",
+    "wordMeanings": {}
+  },
+  {
+    "id": "l1",
+    "title": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ",
+    "poetName": "ತ.ಸು. ಶಾಮರಾಯ",
+    "poemText": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯವು ಬಹಳ ಪುರಾತನವಾದುದು...",
+    "category": "History",
+    "type": "LITERATURE",
+    "bhavartha": "Introduction to Kannada literature history.",
+    "wordMeanings": {}
+  },
+  {
+    "id": "w1",
+    "title": "ನನ್ನ ಅನಿಸಿಕೆಗಳು",
+    "poetName": "ಜನಸಾಮಾನ್ಯ",
+    "poemText": "ಇಂದಿನ ಕಾಲದ ಸಾಹಿತ್ಯದ ಬಗ್ಗೆ ನನ್ನ ಕೆಲವು ಅನಿಸಿಕೆಗಳು ಇಲ್ಲಿವೆ...",
+    "category": "Article",
+    "type": "WRITING",
+    "bhavartha": "A personal writing about modern literature.",
+    "wordMeanings": {}
+  }
+]

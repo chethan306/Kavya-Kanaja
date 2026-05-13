@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "ಡಿ.ಎಸ್. ಕರ್ಕಿ",
+    "bio": "D.S. Karki was a renowned Kannada poet and writer, known for his patriotic and nature-themed poems.",
+    "famousWorks": ["ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ", "ನಮನ"]
+  },
+  {
+    "id": "2",
+    "name": "ಕೆ.ಎಸ್. ನಿಸಾರ್ ಅಹಮದ್",
+    "bio": "K.S. Nissar Ahmed was a prolific Kannada poet and writer. He was awarded the Padma Shri in 2008.",
+    "famousWorks": ["ಜೋಗದ ಸಿರಿ ಬೆಳಕಿನಲ್ಲಿ", "ಕುರಿಗಳು ಸಾರ್ ಕುರಿಗಳು"]
+  }
+]
